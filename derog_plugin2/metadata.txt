@@ -1,0 +1,19 @@
+[general]
+name=Aide Décision Dérogation
+qgisMinimumVersion=3.0
+description=Plugin d'aide à la prise de décision pour les demandes de dérogation urbanistique
+version=1.0
+author=Oumaima El Khlifi & Wiam Makhloufi & Boutaina Boujbel
+email=votre@email.com
+about=Ce plugin propose deux modules :
+    - Dérogation : analyse la localisation d'un projet par rapport aux couches foncières (domaine forestier, communal, public, collectif, privé État) et génère un rapport d'indicateurs spatiaux.
+    - Raster : téléchargement et analyse d'images satellitaires Sentinel-1 (radar) et Sentinel-2 (optique) via l'API Sentinel Hub, avec calcul d'indices spectraux (NDVI, NDWI, NDBI, NDMI, RVI, VV/VH...).
+    Aucune décision automatique — aide à la décision uniquement.
+tracker=
+repository=
+tags=urbanisme, dérogation, analyse spatiale, foncier, buffer, sentinel, raster, NDVI, satellite
+homepage=
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False

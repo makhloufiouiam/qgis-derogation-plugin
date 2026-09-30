@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Archives et builds (le zip va dans Releases, pas dans le dépôt)
+*.zip
+dist/
+build/
+
+# Qt / PyQt (fichiers générés)
+resources.py
+ui_*.py
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# QGIS (fichiers temporaires et sauvegardes)
+*.qgz~
+*.qgs~
+*.aux.xml
+*.qmd~
+*.bak
+*.tmp
+*.log
+
+# Données lourdes ou sensibles (shapefiles, rasters, téléchargements Sentinel)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.tif
+*.tiff
+*.jp2
+*.SAFE/
+Sentinel_Downloads/
+data/
+
+# Secrets
+.env
+*.key
+config_local.*
