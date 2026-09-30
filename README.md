@@ -45,8 +45,8 @@ derog_plugin2/
 └── icon.png
 ```
 ## Captures d'écran
-![Dérogation](docs/derogation.png)
-![Raster](docs/Raster.png)
+![Dérogation](docs/derogation.PNG)
+![Raster](docs/Raster.PNG)
 
 
 ## Auteurs
