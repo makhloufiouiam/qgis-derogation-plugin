@@ -44,7 +44,9 @@ derog_plugin2/
 ├── metadata.txt
 └── icon.png
 ```
-
+## Captures d'écran
+![Dérogation](docs/derogation.png)
+![Raster](docs/Raster.png)
 
 
 ## Auteurs
